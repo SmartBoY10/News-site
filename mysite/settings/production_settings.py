@@ -40,7 +40,7 @@ SECRET_KEY = SECRET_KEY
 DEBUG = False
 #DEBUG = bool( os.environ.get('DJANGO_DEBUG', True) )
 
-ALLOWED_HOSTS = ['simple-news-site.herokuapp.com']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
