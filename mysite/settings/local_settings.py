@@ -28,7 +28,7 @@ SECRET_KEY = '^p+&zm4x=r(ok9l2q7n&$lf($9^!hy49tm41cq9pn=!_7+!=9z'
 DEBUG = True
 
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['simple-news-site.herokuapp.com']
 
 
 # Application definition
